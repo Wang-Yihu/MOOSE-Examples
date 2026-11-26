@@ -79,8 +79,8 @@
   end_time = 2
   solve_type = 'PJFNK'
   accept_on_max_fixed_point_iteration = True
-  fixed_point_max_its = 2
-  fixed_point_min_its = 2
+  fixed_point_max_its = 3
+  fixed_point_min_its = 3
   relaxation_factor = 0.3
   transformed_postprocessors = from_sub_pps_y
 []
